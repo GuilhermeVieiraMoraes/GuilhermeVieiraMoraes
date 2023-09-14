@@ -23,10 +23,10 @@ Eu sou Guilherme Vieira, estudante de Sistema de Informação pela Universidade 
 
 <!-- TODO: Make technologies links takes you to repositories -->
 
-[![Python Badge](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&labelColor=black&logo=python&logoColor=3776AB)](#) [![HTML Badge](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&labelColor=black&logo=html5)](#) [![Java Badge](https://img.shields.io/badge/-JAVA-ED8B00?style=for-the-badge&labelColor=black&logo=java&logoColor=ED8B00)](#) 
+[![Python Badge](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&labelColor=black&logo=python&logoColor=3776AB)](#) [![HTML Badge](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&labelColor=black&logo=html5)](#)  [![CSS3 Badge](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&labelColor=black&logo=css3&logoColor=1572B6)](#)
 
 ##### Familiarizado
-[![CSS3 Badge](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&labelColor=black&logo=css3&logoColor=1572B6)](#) [![Angular Badge](https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&labelColor=black&logo=angular&logoColor=DD0031)](#)[![Bootstrap Badge](https://img.shields.io/badge/-BOOTSTRAP-563D7C?style=for-the-badge&labelColor=black&logo=bootstrap&logoColor=563D7C)](#)[![Flask Badge](https://img.shields.io/badge/-Flask-white?style=for-the-badge&labelColor=black&logo=flask&logoColor=white)](#)
+ [![Java Badge](https://img.shields.io/badge/-JAVA-ED8B00?style=for-the-badge&labelColor=black&logo=java&logoColor=ED8B00)](#)[![Angular Badge](https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&labelColor=black&logo=angular&logoColor=DD0031)](#)[![Bootstrap Badge](https://img.shields.io/badge/-BOOTSTRAP-563D7C?style=for-the-badge&labelColor=black&logo=bootstrap&logoColor=563D7C)](#)[![Flask Badge](https://img.shields.io/badge/-Flask-white?style=for-the-badge&labelColor=black&logo=flask&logoColor=white)](#)
 
 ##### Estudando
 [![JavaScript Badge](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F7DF1E)](#) 
